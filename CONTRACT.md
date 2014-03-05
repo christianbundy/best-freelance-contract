@@ -1,7 +1,7 @@
 # Summary:
 I'll always do my best to fulfil your needs and meet your expectations, but it’s important to have things written down so that we both know what’s what, who should do what and when, and what will happen if something goes wrong. In this contract you won’t find any complicated legal terms or long passages of unreadable text. I want to do what's best for both parties, and have no desire to trick you into signing something that you might later regret.
 
-You, ~~John Doe~~, located at ~~12345 Main St.~~, are hiring me, ~~Christian Bundy, located at ~~67890 Main St.~~, to create a web application for the estimated total price of ~~$9999~~.
+You, ~~John Doe~~, located at ~~12345 Main St.~~, are hiring me, ~~Christian Bundy~~, located at ~~67890 Main St.~~, to create a web application for the estimated total price of ~~$9999~~.
 
 ## What do both parties agree to do?
 * You: You have the authority to enter into this contract on behalf of yourself, your company, or your organisation. You’ll give me everything I need to complete the project when and in the format I need it. You’ll review my work, provide feedback, and give approval in a timely manner. Deadlines work two ways, so you’ll also be bound by the dates that we set together. You also agree to stick to the payment schedule set up at the end of this contract.
